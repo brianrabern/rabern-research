@@ -1,0 +1,91 @@
+/* Add your custom CSS styles here */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#ppl-widget-container {
+  background-color: #d8d7d7;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.xpapers_abstract {
+  font-size: smaller;
+  padding: 2px;
+}
+
+.xpapers_pubInfo {
+  color: #a6adbb;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: rgb(18, 18, 18);
+  margin-bottom: 5px;
+  margin-left: 10px;
+
+  /* extra padding on right */
+  margin-right: 30px;
+}
+.xpapers_pubInfo:hover {
+  background-color: rgb(0, 0, 0);
+}
+.xpapers_pubtype {
+  /* center */
+  color: rgb(18, 18, 18);
+  text-align: center;
+  margin-bottom: 5px;
+}
+.publication-title {
+  color: rgb(40, 161, 218);
+  font-weight: bold;
+  text-decoration: none;
+}
+.pub-source {
+  color: rgba(255, 255, 0, 0.763);
+}
+
+.pub-source a {
+  color: rgba(255, 255, 0, 0.763);
+}
+.truncated-content {
+  color: #a6adbb;
+}
+.read-more {
+  color: rgb(0, 128, 124);
+}
+
+ul {
+  list-style: none;
+}
+.like-row {
+  /* invisible */
+  display: none;
+}
+.like-button {
+  /* invisible */
+  display: none;
+}
+
+.follow-btn__text {
+  /* invisible */
+  display: none;
+}
+.fa.fa-check::before {
+  /* invisible */
+  display: none;
+}
+
+.fa.fa-bullhorn {
+  display: none;
+}
