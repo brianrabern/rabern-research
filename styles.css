@@ -16,9 +16,6 @@ code {
 
 #ppl-widget-container {
   background-color: #d8d7d7;
-  margin: 20px;
-  padding: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .xpapers_abstract {
@@ -29,13 +26,10 @@ code {
 .xpapers_pubInfo {
   color: #a6adbb;
   border-radius: 8px;
-  padding: 16px;
+  padding: 10px;
   background-color: rgb(18, 18, 18);
-  margin-bottom: 5px;
-  margin-left: 10px;
-
-  /* extra padding on right */
-  margin-right: 30px;
+  margin-bottom: 4px;
+  margin-left: -40px;
 }
 .xpapers_pubInfo:hover {
   background-color: rgb(0, 0, 0);
@@ -50,6 +44,11 @@ code {
   color: rgb(40, 161, 218);
   font-weight: bold;
   text-decoration: none;
+}
+.publication-title:hover {
+  color: rgb(40, 218, 96);
+  font-weight: bold;
+  text-decoration: underline;
 }
 .pub-source {
   color: rgba(255, 255, 0, 0.763);
