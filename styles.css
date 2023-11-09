@@ -81,7 +81,14 @@ ul {
   /* invisible */
   display: none;
 }
-
+.like-button.philwidget-tooltip {
+  /* invisible */
+  display: none;
+}
+.tooltiptext {
+  /* invisible */
+  display: none;
+}
 .follow-btn__text {
   /* invisible */
   display: none;
@@ -90,7 +97,10 @@ ul {
   /* invisible */
   display: none;
 }
-
+.fa.fa-user-plus::before {
+  /* invisible */
+  display: none;
+}
 .fa.fa-bullhorn {
   display: none;
 }
