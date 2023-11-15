@@ -24,6 +24,7 @@ code {
   background-color: #d8d7d7;
 }
 .xpapers_abstract {
+  color: #a6adbb;
   font-size: smaller;
   padding: 2px;
 }
@@ -73,6 +74,7 @@ code {
 }
 .truncated-content {
   color: #a6adbb;
+  margin-bottom: 4px;
   
 }
 .read-more {
