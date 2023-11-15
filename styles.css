@@ -65,7 +65,11 @@ code {
 }
 
 .xpapers_extras {
+  color: #a6adbb;
+  border-radius: 8px;
+  padding: 10px;
   background-color: rgb(18, 18, 18);
+  margin-bottom: 4px;
 }
 .truncated-content {
   color: #a6adbb;
