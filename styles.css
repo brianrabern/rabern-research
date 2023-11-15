@@ -63,9 +63,13 @@ code {
 .pub-source a {
   color: rgba(255, 255, 0, 0.763);
 }
+
+.xpapers_extras {
+  background-color: rgb(18, 18, 18);
+}
 .truncated-content {
   color: #a6adbb;
-  background-color: rgb(18, 18, 18);
+  
 }
 .read-more {
   color: rgb(0, 128, 124);
