@@ -65,6 +65,7 @@ code {
 }
 .truncated-content {
   color: #a6adbb;
+  background-color: rgb(18, 18, 18);
 }
 .read-more {
   color: rgb(0, 128, 124);
